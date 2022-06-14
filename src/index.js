@@ -12,7 +12,7 @@ function App() {
         <h1>
           efulky.ma
           <br />
-          Coming Soon
+          قريبا
         </h1>
         <Timer />
         {/* <Optin /> */}
